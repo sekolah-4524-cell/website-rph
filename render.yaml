@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rph-analisis-sekolah
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
